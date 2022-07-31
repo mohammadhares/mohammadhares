@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS , Node , Flutter**
 
-- 👨‍💻 All of my projects are available at [https://haris.wamasolution.com/](https://haris.wamasolution.com/)
-
 - 💬 Ask me about **Laravel, Java, React , Vue...**
 
 - 📫 How to reach me **muhammadhares11@gmail.com**
