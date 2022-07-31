@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhares&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhares" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhares" alt="mohammadhares" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS , Node , Flutter**
 
 - 👨‍💻 All of my projects are available at [https://haris.wamasolution.com/](https://haris.wamasolution.com/)
